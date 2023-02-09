@@ -1,6 +1,6 @@
 ## CVE Checker
 
-Allows you to check for Common Vulnerabilities and Exposures (CVEs) by either entering a specific CVE ID, a device name, or an IP address. It uses the National Vulnerability Database (NVD) API to retrieve information about vulnerabilities.
+**_Allows you to check for Common Vulnerabilities and Exposures (CVEs) by either entering a specific CVE ID, a device name, or an IP address. It uses the National Vulnerability Database (NVD) API to retrieve information about vulnerabilities._**
 
 ###### Prerequisites
 ```
@@ -10,9 +10,9 @@ Allows you to check for Common Vulnerabilities and Exposures (CVEs) by either en
 
 ###### Installation
 
-1. Clone or download the repository to your local machine.
+**_1. Clone or download the repository to your local machine.
 2. Open a terminal or command prompt in the directory where the script is located.
-3. Run the following command to install the required libraries:
+3. Run the following command to install the required libraries:_**
 ```
 pip3 install requests
 ```
